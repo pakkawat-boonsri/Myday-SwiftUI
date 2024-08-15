@@ -1,0 +1,7 @@
+{
+    "MyDay": {
+        "dbConfig": {
+            "dbName": "mongodb+srv://APIpipe:ajRWmR3f6R9IJwo6@cluster1.vj8gvqs.mongodb.net/myday?retryWrites=true&w=majority"
+        }
+    }
+}

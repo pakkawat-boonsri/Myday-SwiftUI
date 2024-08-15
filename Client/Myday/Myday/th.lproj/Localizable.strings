@@ -1,0 +1,87 @@
+/* 
+  Localizable.strings
+  Myday
+
+  Created by วิศวะ โชติพันธุ์พงศ์ on 9/9/2565 BE.
+  
+*/
+"Classes_Schedule" = "ตารางเรียน";
+"Announce" = "ประกาศ";
+"common_task" = "กิจกรรม";
+"day_sun" = "อา";
+"day_mon" = "จ";
+"day_tue" = "อ";
+"day_wed" = "พ";
+"day_thu" = "พฤ";
+"day_fri" = "ศ";
+"day_sat" = "ส";
+"filter_all" = "ทั้งหมด";
+"filter_course" = "วิชาเรียน";
+"filter_activity" = "กิจกรรม";
+"Activity" = "กิจกรรม";
+"event" = "งานกิจกรรม";
+"announce" = "ประกาศ";
+"classes_schedule" = "ตารางเรียน";
+"sec" = "หมู่เรียน";
+"room" = "ห้องเรียน";
+"filter" = "ตัวกรอง";
+"filter_all" = "ทั้งหมด";
+"filter_course" = "วิชาเรียน";
+"filter_activity" = "กิจกรรม";
+"teacher" = " อ.ผู้สอน";
+"profile" = "ข้อมูลส่วนตัว";
+"activity_list" = "รายการกิจกรรม";
+"logout" = "ออกจากระบบ";
+"see_all" = "ดูทั้งหมด";
+"activity" = "กิจกรรม";
+"edit_activity" = "แก้ไขกิจกรรม";
+"add" = "เพิ่ม";
+"delete" = "ลบ";
+"edit" = "แก้ไข";
+"back" = "ย้อนกลับ";
+
+"create_bt" = "สร้างเอกสาร";
+"add_bt" = "เพิ่มเอกสาร";
+"delete_bt" = "ลบเอกสาร";
+"edit_bt" = "แก้ไขเอกสาร";
+"back_bt" = "ย้อนกลับ";
+
+
+"activity_detail" = "รายละเอียดกิจกรรม";
+"activity_name" = "ชื่อกิจกรรม";
+"location" = "สถานที่จัดกิจกรรม";
+"date_time" = "วันและเวลาจัดกิจกรรม";
+"detail" = "รายละเอียด";
+"add_activity" = "เพิ่มกิจกรรม";
+"signin" = "เข้าสู่ระบบ";
+"email" = "อีเมล";
+"password" = "รหัสผ่าน";
+"confirm_password" = "ยืนยันรหัสผ่าน";
+"no_ account" = "ยังไม่มีบัญชีใช่หรือไม่?";
+"create" = "สร้างบัญชี";
+"have_ account" = "มีบัญชีผู้ใช้แล้ว";
+"at_time" = "เวลา";
+
+"add_annouce" = "เพิ่มประกาศ";
+"edit_annouce" = "แก้ไขประกาศ";
+
+"announce_detail" = "รายละเอียดการประกาศ";
+"image" = "รูปภาพ";
+"image_url" = "รูปภาพ (URL)";
+"annouce_name" = "ชื่อประกาศ";
+"startdate_time" = "วันและเวลาที่เริ่มประกาศ";
+"enddate_time" = "วันและเวลาที่สิ้นสุดประกาศ";
+
+"refresh_success" = "Refresh success";
+"refresh_error" = "Refresh error";
+
+"create_success" = "สร้างเอกสาร สำเร็จ";
+"create_error" = "สร้างเอกสาร ไม่สำเร็จ";
+"edit_success" = "แก้ไขเอกสาร สำเร็จ";
+"edit_error" = "แก้ไขเอกสาร ไม่สำเร็จ";
+"delete_success" = "ลบเอกสาร สำเร็จ";
+"delete_error" = "ลบเอกสาร ไม่สำเร็จ";
+
+
+"create_user_success" = "สร้างบัญชี สำเร็จ";
+"create_user_error" = "สร้างบัญชี ไม่สำเร็จ";

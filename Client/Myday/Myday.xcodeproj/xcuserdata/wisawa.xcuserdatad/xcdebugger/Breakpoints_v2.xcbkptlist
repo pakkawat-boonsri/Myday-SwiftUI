@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BC9AE2B2-FDBA-434C-BC3E-52BA1CD15811"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0D9805B-07FE-4D1F-BE80-ABDE36BA465F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "updateActivityAPIData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E660CCC0-9894-4478-AF0B-C94B56022EB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DateFormat.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "longDateToString(date:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B116DC73-21D1-48F2-AAA9-2BD8EFFAA64C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Myday/Event/Task/TaskViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "Blinding()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73A1BD9D-3292-40CE-905C-88B252409344"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DateFormat.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "stringDateToDateTime(isoDate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7250400-C43D-4C87-A363-BA41DA9D4879"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSA.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "encryptData(text:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4041D443-D82E-4B9C-A3F8-32E6614A76CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSA.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
+            landmarkName = "decyption(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D8FF511-9D47-4BE7-870E-BB074D04571B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "updateActivityAPIData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D8FF511-9D47-4BE7-870E-BB074D04571B - c3022b66263dbb1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Myday.ActivityDocumentViewModel.updateActivityAPIData(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Myday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wisawa/Desktop/Work.nosync/myday/Client/Myday/Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "0D8FF511-9D47-4BE7-870E-BB074D04571B - c3022b66263dbb1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Myday.ActivityDocumentViewModel.updateActivityAPIData(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Myday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wisawa/Desktop/Work.nosync/myday/Client/Myday/Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6869DCA8-88C0-4785-8BDC-7D2CD73AE3DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "deleteActivityAPIData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6869DCA8-88C0-4785-8BDC-7D2CD73AE3DD - dbc465412d226eb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Myday.ActivityDocumentViewModel.deleteActivityAPIData(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Myday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wisawa/Desktop/Work.nosync/myday/Client/Myday/Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "6869DCA8-88C0-4785-8BDC-7D2CD73AE3DD - dbc465412d226eb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Myday.ActivityDocumentViewModel.deleteActivityAPIData(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Myday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wisawa/Desktop/Work.nosync/myday/Client/Myday/Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17B46743-059B-4E74-976A-8A0074C7367D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "deleteActivityAPIData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17B46743-059B-4E74-976A-8A0074C7367D - dbc465412d226eb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Myday.ActivityDocumentViewModel.deleteActivityAPIData(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Myday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wisawa/Desktop/Work.nosync/myday/Client/Myday/Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "17B46743-059B-4E74-976A-8A0074C7367D - dbc465412d226eb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Myday.ActivityDocumentViewModel.deleteActivityAPIData(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Myday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wisawa/Desktop/Work.nosync/myday/Client/Myday/Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD81D9F1-56D9-4DEE-BC26-BD066B2DDE40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "updateActivityAPIData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9911D625-6D2C-46BC-B96A-702C3F6D5012"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "updateActivityAPIData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9911D625-6D2C-46BC-B96A-702C3F6D5012 - c3022b66263db962"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Myday.ActivityDocumentViewModel.updateActivityAPIData(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Myday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wisawa/Desktop/Work.nosync/myday/Client/Myday/Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "1564">
+               </Location>
+               <Location
+                  uuid = "9911D625-6D2C-46BC-B96A-702C3F6D5012 - 40280e6c68692dad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Foundation.Data, Alamofire.AFError&gt;) -&gt; () in Myday.ActivityDocumentViewModel.updateActivityAPIData(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Myday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wisawa/Desktop/Work.nosync/myday/Client/Myday/Myday/Document/ActivityDocument/ActivityDocumentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE20EEB5-40EA-445E-9822-639C31FC5E84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSA.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "encyption(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AD06E49-4457-437E-B08D-73002CB07EDE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSA.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
+            landmarkName = "encyption(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

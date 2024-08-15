@@ -1,0 +1,87 @@
+/* 
+  Localizable.strings
+  Myday
+
+  Created by วิศวะ โชติพันธุ์พงศ์ on 9/9/2565 BE.
+  
+*/
+"Classes_Schedule" = "Classes Schedule";
+"Announce" = "Announce";
+"common_task" = "Task";
+"day_sun" = "Su";
+"day_mon" = "Mo";
+"day_tue" = "Tu";
+"day_wed" = "We";
+"day_thu" = "Th";
+"day_fri" = "Fr";
+"day_sat" = "Sa";
+"filter_all" = "All";
+"filter_course" = "Course";
+"filter_activity" = "Activity";
+"Activity" = "Activity";
+"event" = "Event";
+"announce" = "Announce";
+"classes_schedule"= "Classes Schedule";
+"sec" = "SEC";
+"room" = "Room";
+"filter" = "Filter";
+"filter_all" = "All";
+"filter_course" = "Course";
+"filter_activity" = "Activity";
+"teacher" = "Teacher";
+"profile" = "Profile";
+"activity_list" = "Activity List ";
+"logout" = "Logout";
+"see_all" = "See all";
+"activity" = "Activity";
+"edit_activity" = "Edit Activity";
+"add" = "Add";
+"delete" = "Delete";
+"edit" = "Edit";
+"back" = "Back";
+
+"create_bt" = "Create";
+"add_bt" = "Add";
+"delete_bt" = "Delete";
+"edit_bt" = "Edit";
+"back_bt" = "Back";
+
+"activity_detail" = "Activity Detail";
+"activity_name" = "Activity Name";
+"location" = "Location";
+"date_time" = "Date&Time";
+"detail" = "Detail";
+"add_activity" = "Add Activity";
+"signin" = "Sign in";
+"email" = "E-Mail";
+"password" = "Password";
+"confirm_password" = "Confirm Password";
+"no_ account" = "Don’t have an account yet?";
+"create" = "Create an account";
+"have_ account" = "Have an account?";
+"at_time" = "at";
+
+"add_annouce" = "Add Annouce";
+"edit_annouce" = "Edit Annouce";
+
+"annouce_detail" = "Annouce Detail";
+"image" = "Image";
+"image_url" = "Image (URL)";
+"annouce_name" = "Annouce Name";
+"startdate_time" = "Date&Time (Start)";
+"enddate_time" = "Date&Time (End)";
+
+"refresh_success" = "Refresh success";
+"refresh_error" = "Refresh error";
+"create_success" = "Create Document success";
+"create_error" = "Create Document error";
+"edit_success" = "Edit Document success";
+"edit_error" = "Edit Document error";
+"delete_success" = "Delete Document success";
+"delete_error" = "Delete Document error";
+
+"create_user_success" = "Create User success";
+"create_user_error" = "Create User failure";
+
+//12 jun 2022 at 14:00 - 19:00
+
